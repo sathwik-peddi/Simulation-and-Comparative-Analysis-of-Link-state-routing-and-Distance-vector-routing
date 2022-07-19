@@ -1,0 +1,97 @@
+##################################################### 
+DVTCP
+
+Send Count : 2031 
+Received Count : 2011 
+Start time is 0.300000 sec 
+ End time is 19.998289 sec 
+ Received data is 2090440.000000 bytes 
+ Throughput is 848983.381247 bps 
+ Packet Delivery Ratio is 0.990153 
+ Packet Loss is 20 
+ 
+###################################################
+DVUDP
+
+Send Count : 1104 
+Received Count : 1095 
+Start time is 0.300000 sec 
+ End time is 19.992647 sec 
+ Received data is 1095000.000000 bytes 
+ Throughput is 444836.085266 bps 
+ Packet Delivery Ratio is 0.991848 
+ Packet Loss is 9 
+
+#####################################################
+LSRTCP
+
+Send Count : 1615 
+Received Count : 1612 
+Start time is 3.300000 sec 
+ End time is 19.951267 sec 
+ Received data is 1675480.000000 bytes 
+ Throughput is 804974.180043 bps 
+ Packet Delivery Ratio is 0.998142 
+ Packet Loss is 3
+
+####################################################
+LSRUDP
+
+Send Count : 1095 
+Received Count : 1089 
+Start time is 0.460714 sec 
+ End time is 19.992647 sec 
+ Received data is 1089000.000000 bytes 
+ Throughput is 446038.802202 bps 
+ Packet Delivery Ratio is 0.994521 
+ Packet Loss is 6
+ 
+#####################################################
+DVTCP30
+
+Send Count : 1051 
+Received Count : 1071 
+Start time is 0.300000 sec 
+ End time is 19.962778 sec 
+ Received data is 1112840.000000 bytes 
+ Throughput is 452770.203681 bps 
+ Packet Delivery Ratio is 1.019029 
+ Packet Loss is -20 
+ 
+#####################################################
+DVUDP30
+
+Send Count : 1131 
+Received Count : 1132 
+Start time is 0.300000 sec 
+ End time is 19.985299 sec 
+ Received data is 1132000.000000 bytes 
+ Throughput is 460038.732457 bps 
+ Packet Delivery Ratio is 1.000884 
+ Packet Loss is -1 
+ 
+#####################################################
+LSRTCP30
+
+Send Count : 689 
+Received Count : 682 
+Start time is 3.300000 sec 
+ End time is 19.831608 sec 
+ Received data is 708280.000000 bytes 
+ Throughput is 342751.896851 bps 
+ Packet Delivery Ratio is 0.989840 
+ Packet Loss is 7  
+
+######################################################
+LSRUDP30
+
+Send Count : 1122 
+Received Count : 1102 
+Start time is 0.514286 sec 
+ End time is 19.985299 sec 
+ Received data is 1102000.000000 bytes 
+ Throughput is 452775.620868 bps 
+ Packet Delivery Ratio is 0.982175 
+ Packet Loss is 20 
+
+
